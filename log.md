@@ -1,7 +1,6 @@
 # 100 days of code challenge
 ### Day 1(January 13, 2018)
-
-#### Today's progress
+#### Progress
  - read and practiced to the chapter 5 of "Learn python the hard way" so about strings and variables
  - I forgot quotations a few times(I need to remember that they're strings)
  
@@ -10,9 +9,15 @@
  - I think my learning speed is too slow. There won't be any project links since all I did is simple maths and typing print("...") for quite a number times. 
 
 ### Day 2(January 14, 2018)
-
-#### Today's progress
+#### Progress
 - mainly learnt about formatting, inputs, len(), str(), int(), float() and more about variables. I now understand clearer than yesterday. Completed "Learn python the hard way"'s sample lessons and don't have a credit card to buy the whole book so I'm now learning with "Automate the boring stuff with python"
 
 #### Thoughts
 - I still think my learning speed is quite slow. I still don't think I can do any project with this limited knowledge either.
+
+### Day 3(January 15, 2018)
+#### Progress
+- learnt about Boolean values and Boolean operators. I was typing "Bootlean"s in my comments instead of "Boolean" until I was about to update my progress. :') Glad I noticed it quick though.
+
+#### Thoughts
+- didn't learn much today since I was absorbed in a book. :( Read is read but must not go overboard and stay productive.
