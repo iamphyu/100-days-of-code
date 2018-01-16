@@ -21,3 +21,10 @@
 
 #### Thoughts
 - didn't learn much today since I was absorbed in a book. :( Read is read but must not go overboard and stay productive.
+
+### Day 4(January 16, 2018)
+#### Progress
+- ‪learnt about control flow statements(not all yet, just some of them). Took a little bit of time to understand “while” statement but I get it now.‬
+
+#### Thoughts
+- I need to invest more of my time learning Python.
