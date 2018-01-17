@@ -28,3 +28,10 @@
 
 #### Thoughts
 - I need to invest more of my time learning Python.
+
+### Day 5(January 17, 2018)
+#### Progress
+- Continued learning about control flow statements.
+
+#### Thoughts
+- Almost didn't learn at all! I need to get my shit together and focus at learning.
