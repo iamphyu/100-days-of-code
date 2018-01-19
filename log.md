@@ -35,3 +35,10 @@
 
 #### Thoughts
 - Almost didn't learn at all! I need to get my shit together and focus at learning.
+
+### Day 6(January 18, 2018)
+#### Progress
+- skipped the day due to severe menstruation cramps and period diarrhea. 
+
+#### Thoughts
+- I need to take medications. Can't skip days like that. 
